@@ -1,0 +1,3 @@
+PHONE = 1
+LOCATION = 2
+CONFIRM = 3
